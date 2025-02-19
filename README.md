@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**googleclassroom1/googleclassroom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Front-End Web Developer with a passion for creating beautiful and responsive web applications. You can check out my work at [soupcan.pages.dev](https://soupcan.pages.dev).
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** React, Vue.js, Bootstrap
+- **Tools:** Git, Webpack, VSCode
+
+## 🌱 Currently Learning
+
+- TypeScript
+- Next.js
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- **Email:** [Your Email]
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Twitter:** [Your Twitter Profile]
+
+## 🚀 Projects
+
+Here are a few of my favorite projects:
+
+- [Project 1](link-to-your-project) - Brief description of the project.
+- [Project 2](link-to-your-project) - Brief description of the project.
+- [Project 3](link-to-your-project) - Brief description of the project.
+
+Feel free to explore my repositories and reach out if you have any questions or just want to connect!
+
+Thanks for visiting! 😊

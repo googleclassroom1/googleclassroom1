@@ -1,6 +1,6 @@
 # Hi there, I'm Toby 👋
 
-Welcome to my GitHub profile! I'm a Front-End Web Developer Who Has Made An UBG Site For My Friends And Me Because <a href="https://thepizzaedition.github.io"><the pizza edition/a> [soupcan.pages.dev](https://soupcan.pages.dev).
+Welcome to my GitHub profile! I'm a Front-End Web Developer Who Has Made An UBG Site For My Friends And Me Because [<a href="https://thepizzaedition.github.io"><the pizza edition/a>] [soupcan.pages.dev](https://soupcan.pages.dev).
 
 ## 🔧 Technologies & Tools
 

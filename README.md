@@ -1,6 +1,6 @@
 # Hi there, I'm Toby 👋
 
-Welcome to my GitHub profile! I'm a Front-End Web Developer Who Has Made An UBG Site For My Friends And Me Because [the pizza edition](https://thepizzaedition.github.io) got blocked. This is my site [soupcan.pages.dev](https://soupcan.pages.dev).
+Welcome to my GitHub profile! I'm a Front-End Web Developer who has created a UBG site for my friends and me because [The Pizza Edition](https://thepizzaedition.github.io) got blocked. Check out my site: [soupcan.pages.dev](https://soupcan.pages.dev).
 
 ## 🔧 Technologies & Tools
 
@@ -17,13 +17,12 @@ Welcome to my GitHub profile! I'm a Front-End Web Developer Who Has Made An UBG 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=googleclassroom1&layout=compact&theme=radical)
-)
 
 ## 📫 How to Reach Me
 
-- **Email:** [pyrocentral@gmail.com]
-- **UBG Site:** [pxro.pages.dev]
-- **Discord:** [@pxro.netlify.app]
+- **Email:** [pyrocentral@gmail.com](mailto:pyrocentral@gmail.com)
+- **UBG Site:** [pxro.pages.dev](https://pxro.pages.dev)
+- **Discord:** [@pxro.netlify.app](https://pxro.netlify.app)
 
 ## 🚀 Projects
 
@@ -36,3 +35,4 @@ Here are a few of my favorite projects:
 Feel free to explore my repositories and reach out if you have any questions or just want to connect!
 
 Thanks for visiting! 😊
+

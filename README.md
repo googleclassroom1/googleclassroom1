@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Front-End Web Developer who has created a UB
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=googleclassroom1&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=googleclassroom1&layout=compact&theme=radical)(https://github-readme-stats.vercel.app/api?username=googleclassroom1&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 

@@ -5,13 +5,14 @@ Welcome to my GitHub profile! I'm a Front-End Web Developer with a passion for c
 ## 🔧 Technologies & Tools
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React, Vue.js, Bootstrap
-- **Tools:** Git, Webpack, VSCode
+- **Frameworks:** Bootstrap
+- **Tools:** Git, VSCode
 
 ## 🌱 Currently Learning
 
-- TypeScript
-- Next.js
+- PHP
+- Python
+- AJAX
 
 ## 📈 GitHub Stats
 
@@ -19,9 +20,9 @@ Welcome to my GitHub profile! I'm a Front-End Web Developer with a passion for c
 
 ## 📫 How to Reach Me
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Profile]
+- **Email:** [pyrocentral@gmail.com]
+- **UBG Site:** [pxro.pages.dev]
+- **Discord:** [@pxro.netlify.app]
 
 ## 🚀 Projects
 

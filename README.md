@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a Front-End Web Developer who has created a UB
 ## 📫 How to Reach Me
 
 - **Email:** [pyrocentral@gmail.com](mailto:pyrocentral@gmail.com)
-- **UBG Site:** [pxro.pages.dev](https://pxro.pages.dev)
+- **UBG Site:** [pxro.pages.dev](https://soupcan.pages.dev)
 - **Discord:** [@pxro.netlify.app](https://pxro.netlify.app)
 
 ## 🚀 Projects
